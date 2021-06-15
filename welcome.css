@@ -1,7 +1,31 @@
 .welcomenav{
-    color:blueviolet;
     width: 1000px;
-    height:150px;
-    background-color: aqua;
+    height:180px;
+    background-color: rgb(213, 222, 222);
+}
 
+#logo{
+    color:black;
+    font-size: 80px;
+}
+
+.welcomebody{
+    background-color: cornflowerblue;
+    width: 1000px;
+    height: 1000px;
+}
+
+.pic{
+    border-radius: 50%;
+    margin-top: 260px;
+    margin-left: 70px;
+}
+
+#paragraph{
+    float: right;
+    margin-top: 450px;
+    margin-right: 270px;
+    color: aliceblue;
+    font-size: x-large;
+    
 }
